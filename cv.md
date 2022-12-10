@@ -48,7 +48,7 @@ Not yet.
 - University: Bauman Moscow State Technical University
 - Courses:
 
--[Web-разработчик](https://www.udemy.com/course/webdeveloper/learn/lecture/14580322#overview)
+* [Web-разработчик](https://www.udemy.com/course/webdeveloper/learn/lecture/14580322#overview)
 
 ---
 
