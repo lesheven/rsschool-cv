@@ -4,10 +4,10 @@
 
 #### Contacts
 
-*Location: Moscow, Russia
-*Phone: +7 926 647 0507
-*Email: lesheven@gmail.com
-*Github: [lesheven](https://github.com/lesheven)
+- Location: Moscow, Russia
+- Phone: +7 926 647 0507
+- Email: lesheven@gmail.com
+- Github: [lesheven](https://github.com/lesheven)
 
 ---
 
@@ -19,8 +19,8 @@ I don't have any work experience yet. But I am eager to learn and learn new thin
 
 #### Skills
 
-*HTML
-*CSS
+- HTML
+- CSS
 
 ---
 
@@ -45,8 +45,8 @@ Not yet.
 
 #### Education
 
--University: Bauman Moscow State Technical University
--Courses:
+- University: Bauman Moscow State Technical University
+- Courses:
 
 -[Web-разработчик](https://www.udemy.com/course/webdeveloper/learn/lecture/14580322#overview)
 
