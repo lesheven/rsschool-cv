@@ -3,6 +3,11 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  background-color: #fdf4e3;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 @font-face {
@@ -17,4 +22,41 @@ body {
 .container {
   max-width: 1440px;
   margin: 0 auto;
+}
+
+.item {
+  list-style-type: none;
+  text-align: center;
+  padding: 0px;
+}
+
+li:last-child {
+  margin-right: 0px;
+}
+
+.li-nav {
+  display: inline;
+  margin-right: 100px;
+}
+
+.text {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+}
+
+/* .section-title {
+  font-size: 20px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: #829985;
+} */
+
+.nav-header {
+  background-color: #a18594;
+}
+
+footer {
+  background-color: #a18594;
 }
